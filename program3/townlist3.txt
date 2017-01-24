@@ -1,0 +1,11 @@
+jill 25 25
+lucie 25 0
+emily 0 25
+laura 15 15
+alaina 0 15
+colleen 15 0
+lexi 18 0
+kendra 18 7
+anna 10 7
+jyothi 10 15
+nightvale 12 22
